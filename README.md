@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning IT and Management in SeoulTech.
 - 💞️ I’m looking to collaborate on many areas.
-- 📫 How to reach me -> send mail to me "kiyoog02@gmail.com"
+- 📫 How to reach me -> send mail to me "kiyoog02@gmail.com" or find me in linkedin "KangInyeong"
 
 * 서울과학기술대학교 산업공학과 ITM전공 재학
 
