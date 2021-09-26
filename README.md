@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKangInyeong&count_bg=%23F8F942&title_bg=%23BBE5AA&icon=&icon_color=%23B6B3B3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 - 👋 Hi, I’m @KangInyeong
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning IT and Management in SeoulTech.
