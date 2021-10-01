@@ -1,11 +1,18 @@
+## 🌞 My GitHub Stat 🌞
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangInyeong&show_icons=true)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKangInyeong&count_bg=%23F8F942&title_bg=%23BBE5AA&icon=&icon_color=%23B6B3B3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 👋 Hi, I’m @KangInyeong
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning IT and Management in SeoulTech.
-- 💞️ I’m looking to collaborate on many areas.
-- 📫 How to reach me -> send mail to me "kiyoog02@gmail.com" or find me in linkedin "KangInyeong"
+## 💛 Self Introduction 💛
+👋 Hi, I’m @KangInyeong   
+👀 I’m interested in programming.  
+🌱 I’m currently majoring IT and Management in SeoulTech.  
+💞️ I’m looking to collaborate on many areas.  
+📫 How to reach me -> Send email to me "kiyoog02@gmail.com" or find me in linkedin "KangInyeong" 💩  
+<br>
 
+## 🌻 Experience 🌻
 * 서울과학기술대학교 산업공학과 ITM전공 재학
 
 * 2020년 이브와 ICT 공모전 은상 
