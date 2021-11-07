@@ -13,6 +13,7 @@
 💞️ I’m looking to collaborate on many areas.  
 ✨ I'm working in "CV Lab" of SEOULTECH since March 2021.  
 📫 How to reach me -> Send email to me "kiyoog02@gmail.com" or find me in linkedin "KangInyeong" 💩  
+🎆 My tech blog https://kangddong.tistory.com/  
 <br>
 
 ## 🌻 Experience 🌻
