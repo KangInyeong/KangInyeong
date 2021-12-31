@@ -26,3 +26,4 @@
 * 2021년 GDSC SeoulTech 코어 멤버
 * 2021년 Bear 프로그램 빅데이터 경진대회 은상
 * 2021년 ITM전공 Global Challenger 금상
+* 수고했다. 2021년.
