@@ -16,6 +16,7 @@
 ✨ I'm working in "CV Lab" of SEOULTECH since March 2021.  
 📫 How to reach me -> Send email to me "kiyoog02@gmail.com" or find me in linkedin "KangInyeong" 💩  
 🎆 My tech blog https://kangddong.tistory.com/  
+🦋 My LinkedIn https://www.linkedin.com/in/inyeong-kang-6933a41a4/
 <br>
 
 ## 🌻 Experience 🌻
@@ -26,6 +27,6 @@
 * 2021년 GDSC SeoulTech 코어 멤버
 * 2021년 Bear 프로그램 빅데이터 경진대회 은상
 * 2021년 ITM전공 Global Challenger 금상
-* 2021년 ITM전공 IT서비스 아이디어 공모전 기획부문 은상 
-* 2021년 ITM전공 IT서비스 아이디어 공모전 개발부문 장려상 - Chan:ce 모바일 어플리케이션
-* 수고했다. 2021년.
+* 2021년 ITM전공 IT서비스 아이디어 공모전 기획부문 은상 - ToVegan 서비스 기획
+* 2021년 ITM전공 IT서비스 아이디어 공모전 개발부문 장려상 - Chan:ce 모바일 어플리케이션 개발
+* 2022년 GDSC Korea Hackathon
