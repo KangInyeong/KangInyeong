@@ -26,6 +26,7 @@
 * 2020년 노원그린캠퍼스타운 창업 콘테스트 우수상
 * 2021년 GDSC SeoulTech 코어 멤버
 * 2021년 Bear 프로그램 빅데이터 경진대회 은상
+* 2021년 9월 ~ Now SeoulTech CV Lab 학부 연구생
 * 2021년 ITM전공 Global Challenger 금상
 * 2021년 ITM전공 IT서비스 아이디어 공모전 기획부문 은상 - ToVegan 서비스 기획
 * 2021년 ITM전공 IT서비스 아이디어 공모전 개발부문 장려상 - Chan:ce 모바일 어플리케이션 개발
