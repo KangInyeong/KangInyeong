@@ -31,3 +31,8 @@
 * 2021년 ITM전공 IT서비스 아이디어 공모전 기획부문 은상 - ToVegan 서비스 기획
 * 2021년 ITM전공 IT서비스 아이디어 공모전 개발부문 장려상 - Chan:ce 모바일 어플리케이션 개발
 * 2022년 GDSC Korea Hackathon
+
+## 🥞 Project 🥞
+* CoCoDing 어플리케이션
+* Magic Sand 프로그램
+* 투비컨티뉴
