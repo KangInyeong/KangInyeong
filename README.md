@@ -16,7 +16,7 @@
 ✨ I'm working in "CV Lab" of SEOULTECH since March 2021.  
 📫 How to reach me -> Send email to me "kiyoog02@gmail.com" or find me in linkedin "KangInyeong" 💩  
 🎆 My tech blog https://kangddong.tistory.com/  
-🏐 My (light) tech blog https://velog.io/@kiyoog02
+🏐 My (light) tech blog https://velog.io/@kiyoog02  
 🦋 My LinkedIn https://www.linkedin.com/in/inyeong-kang-6933a41a4/
 <br>
 
