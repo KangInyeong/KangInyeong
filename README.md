@@ -31,7 +31,7 @@
 * 2021년 ITM전공 Global Challenger 금상
 * 2021년 ITM전공 IT서비스 아이디어 공모전 기획부문 은상 - ToVegan 서비스 기획
 * 2021년 ITM전공 IT서비스 아이디어 공모전 개발부문 장려상 - Chan:ce 모바일 어플리케이션 개발
-* 2022년 GDSC Korea Winter Hackathon - 총괄 및 예산 STAFF
+* 2022년 GDSC Korea Winter Hackathon - 총괄 및 예산 STAFF ([GDSC KR Winter Hack](https://github.com/gdsckoreahackathon2022))
 
 ## 🥞 Project 🥞
 * CoCoDing 어플리케이션
