@@ -27,12 +27,18 @@
 * 2020년 노원그린캠퍼스타운 창업 콘테스트 우수상
 * 2021년 GDSC SeoulTech 코어 멤버
 * 2021년 Bear 프로그램 빅데이터 경진대회 은상
-* 2021년 9월 ~ Now SeoulTech CV Lab 학부 연구생
+* 2021년 9월 ~ 2022년 7월 SeoulTech CV Lab 학부 연구생
 * 2021년 ITM전공 Global Challenger 금상
 * 2021년 ITM전공 IT서비스 아이디어 공모전 기획부문 은상 - ToVegan 서비스 기획
 * 2021년 ITM전공 IT서비스 아이디어 공모전 개발부문 장려상 - Chan:ce 모바일 어플리케이션 개발
 * 2022년 GDSC Korea Winter Hackathon - 총괄 및 예산 STAFF ([GDSC KR Winter Hack](https://github.com/gdsckoreahackathon2022))
 * 2022년 Google Solution Challenge 참여 - HOVI 모바일 어플리케이션 개발
+* 2022년 한국방송·미디어공학회 하계학술대회 - 딥러닝을 활용한 감성 증명사진 제작 웹 애플리케이션
+* 2022년 GDG 썸머 해커톤 : 오프티벌 - STAFF
+* 2022년 7월 AUAS Summer School - Applied Quantum Computing 수료
+* 2022년 서울과학기술대학교 총학생회 모바일 어플리케이션 개발 ([Seoultech Student Council](https://play.google.com/store/apps/details?id=com.start.STart))
+* 2022년 Now Google Developers Group Campus KR 오거나이저
+* 2022년 4월 ~ Now 한이음ICT멘토링 
 
 ## 🥞 Project 🥞
 * CoCoDing 어플리케이션
