@@ -38,7 +38,8 @@
 * 2022년 7월 AUAS Summer School - Applied Quantum Computing 수료
 * 2022년 서울과학기술대학교 총학생회 모바일 어플리케이션 개발 ([Seoultech Student Council](https://play.google.com/store/apps/details?id=com.start.STart))
 * 2022년 Now Google Developers Group Campus KR 오거나이저
-* 2022년 4월 ~ Now 한이음ICT멘토링 
+* 2022년 4월 ~ 12월 한이음ICT멘토링 
+* 2022년 GDG KR Campus DevFest: Merry Careermas 기획 및 운영
 
 ## 🥞 Project 🥞
 * CoCoDing 어플리케이션
