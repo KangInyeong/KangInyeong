@@ -41,6 +41,7 @@
 * 2022년 4월 ~ 12월 한이음ICT멘토링 - 비대면 상담 비즈니스 플랫폼 개발
 * 2022년 GDG KR Campus DevFest: Merry Careermas 기획 및 운영
 * 2022년 서울과학기술대학교 캡스톤 디자인 은상 - The Closet 개발 ([발표 영상](https://youtu.be/1ashpEoyM44))
+* <<업데이트 예정>>
 
 ## 🥞 Project 🥞
 * CoCoDing 어플리케이션
