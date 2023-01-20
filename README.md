@@ -13,7 +13,7 @@
 👀 I’m interested in programming.  
 🌱 I’m currently majoring IT and Management in SeoulTech.  
 💞️ I’m looking to collaborate on many areas.  
-✨ I'm working in "CV Lab" of SEOULTECH since March 2021.  
+✨ I was worked in "CV Lab" of SEOULTECH since March 2021.  
 📫 How to reach me -> Send email to me "kiyoog02@gmail.com" or find me in linkedin "KangInyeong" 💩  
 🎆 My tech blog https://kangddong.tistory.com/  
 🏐 My (light) tech blog https://velog.io/@kiyoog02  
@@ -38,10 +38,13 @@
 * 2022년 7월 AUAS Summer School - Applied Quantum Computing 수료
 * 2022년 서울과학기술대학교 총학생회 모바일 어플리케이션 개발 ([Seoultech Student Council](https://play.google.com/store/apps/details?id=com.start.STart))
 * 2022년 Now Google Developers Group Campus KR 오거나이저
-* 2022년 4월 ~ 12월 한이음ICT멘토링 
+* 2022년 4월 ~ 12월 한이음ICT멘토링 - 비대면 상담 비즈니스 플랫폼 개발
 * 2022년 GDG KR Campus DevFest: Merry Careermas 기획 및 운영
+* 2022년 서울과학기술대학교 캡스톤 디자인 은상 - The Closet 개발 ([발표 영상](https://youtu.be/1ashpEoyM44))
 
 ## 🥞 Project 🥞
 * CoCoDing 어플리케이션
 * Magic Sand 프로그램
 * HOVI: Have Own Voice Intermidiator 어플리케이션
+
+* <<업데이트 예정>>
