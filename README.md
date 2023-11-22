@@ -22,7 +22,7 @@
 
 ## 🌻 Experience 🌻
 * 서울과학기술대학교 산업공학과 ITM전공 재학  
-* 2020년 이브와 ICT 공모전 은상 
+* 2020년 이브와 ICT 공모전 은상 - CoCoDing 모바일 어플리케이션 개발 
 * 2020년 서울과학기술대학교 IP 창업경진대회 최우수상
 * 2020년 노원그린캠퍼스타운 창업 콘테스트 우수상
 * 2021년 GDSC SeoulTech 코어 멤버
@@ -41,11 +41,10 @@
 * 2022년 4월 ~ 12월 한이음ICT멘토링 - 비대면 상담 비즈니스 플랫폼 개발
 * 2022년 GDG KR Campus DevFest: Merry Careermas 기획 및 운영
 * 2022년 서울과학기술대학교 캡스톤 디자인 은상 - The Closet 개발 ([발표 영상](https://youtu.be/1ashpEoyM44))
-* <<업데이트 예정>>
-
-## 🥞 Project 🥞
-* CoCoDing 어플리케이션
-* Magic Sand 프로그램
-* HOVI: Have Own Voice Intermidiator 어플리케이션
-
-* <<업데이트 예정>>
+* 2023년 Google I/O Extended : WANTED 너 내 동료가 돼라 기획 및 운영
+* 2023년 GDG Campus Korea X Whatever : Whatever you make 운영 
+* 2023년 1월 ~ 2023년 12월 삼성청년SW아카데미 9기 - 임베디드 수료  
+  RC카 응용 프로젝트 - WALL-21 개발  
+  공통 - 실시간 사주/타로 화상 상담 플랫폼 Fortune For U 개발  
+  특화 - SAMSUNG SDC : ONE Runtime Python Binding 개발  
+  자율 - Matter 기반 커스텀 스마트홈 컨트롤러 Mattopia 개발  
