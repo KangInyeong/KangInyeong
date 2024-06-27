@@ -1,7 +1,7 @@
 ## 🌞 My GitHub Stat 🌞
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangInyeong&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangInyeong&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangInyeong&langs_count=5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=kiyoog02)](https://solved.ac/kiyoog02) 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kiyoog02&theme=warm)
 
